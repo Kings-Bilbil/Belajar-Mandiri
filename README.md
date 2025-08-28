@@ -1,8 +1,8 @@
 ---
 title: Belajar Mandiri
 emoji: 👀
-colorFrom: Red
-colorTo: Black
+colorFrom: green
+colorTo: blue
 sdk: docker
 pinned: false
 ---
