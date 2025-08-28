@@ -1,8 +1,8 @@
 ---
-title: Praktek OOP
+title: Belajar Mandiri
 emoji: 👀
-colorFrom: blue
-colorTo: green
+colorFrom: Red
+colorTo: Black
 sdk: docker
 pinned: false
 ---
